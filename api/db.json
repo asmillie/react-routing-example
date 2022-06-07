@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "title": "Warhammer",
+      "desc": "TWW3 STream",
+      "id": 1
+    },
+    {
+      "title": "Sea of Thieves",
+      "desc": "Yarrr!",
+      "userId": "117018182697685977858",
+      "id": 5
+    }
+  ]
+}
